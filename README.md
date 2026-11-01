@@ -22,4 +22,10 @@
 
 進度與卡片設定保存在目前瀏覽器的本機儲存空間，不會跨裝置同步。使用「重新開始這一局」清除抽選進度。
 
-此儲存庫目前為私人；上傳程式碼不代表已開啟網站託管。
+此儲存庫為公開，已設定 GitHub Pages 從 main 分支的根目錄發布。
+
+網站入口：https://amykao2023.github.io/wedding-games/
+
+- 幸福賓果：https://amykao2023.github.io/wedding-games/bingo/
+- 幸福點名：https://amykao2023.github.io/wedding-games/lucky-guests/
+
